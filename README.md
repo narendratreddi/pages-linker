@@ -2,7 +2,7 @@
 
 * [Link one](https://www.example.com)
 * [Link two](https://www.example.com)
-* [Oracle Cloud Infrastructure 2018 Architect Associate | 1Z0-932](https://education.oracle.com/oracle-cloud-infrastructure-2018-certified-architect-associate/trackp_538)
+* [Oracle Cloud Infrastructure 2018 Architect Associate \| 1Z0-932](https://education.oracle.com/oracle-cloud-infrastructure-2018-certified-architect-associate/trackp_538)
   * [nested one](https://www.example.com)
   * [nested two](https://www.example.com)
 * [Unnest]((https://www.example.com))
