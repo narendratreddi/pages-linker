@@ -4,7 +4,7 @@
 * [Link two](https://www.example.com)
 * [Oracle Cloud Infrastructure 2018 Architect Associate \| 1Z0-932](https://education.oracle.com/oracle-cloud-infrastructure-2018-certified-architect-associate/trackp_538)
   * [1Z0-932 Study Guide](https://learn.oracle.com/education/pdf/Oracle_Cloud_Infrastructure_study_guide.pdf) \[PDF\] - Study guide for the certification OCI Architect Associate Exam
-  * [1Z0-932 Practice exam](http://oukc.oracle.com/static12/opn/login/?t=checkusercookies\|r=-1\|c=2164389233) (OTN signin required) Practice exam for OCI Architect Associate
+  * [1Z0-932 Practice exam](http://oukc.oracle.com/static12/opn/login/?c=2164389233) (OTN signin required) Practice exam for OCI Architect Associate
 * [Unnest]((https://www.example.com))
 
 
