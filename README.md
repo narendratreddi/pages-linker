@@ -2,6 +2,6 @@
 
 * Link one
 * Link two
-* link three
-  * nested one
-  * nested two
+* [link three](https://www.example.com)
+  * [nested one](https://www.example.com)
+  * [nested two](https://www.example.com)
